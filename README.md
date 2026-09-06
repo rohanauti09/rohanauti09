@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering student passionate about software development and emerging technologies. I enjoy building practical applications using Python, web technologies, and AI/ML.<br><br>🔹 Python & Web Development<br>🔹 AI/ML & Data Science<br>🔹 Database Management<br>🔹 Open-source & Project Development<br><br>🎯 Always learning, building, and looking for opportunities to create meaningful solutions.
+Computer Engineering student passionate about software development and emerging technologies. I enjoy building practical applications using Java, web technologies, and AI/ML.<br><br>🔹 Java & Web Development<br>🔹 AI/ML & Data Science<br>🔹 Database Management<br>🔹 Open-source & Project Development<br><br>🎯 Always learning, building, and looking for opportunities to create meaningful solutions.
 
 
 ## 🌐 Socials:
