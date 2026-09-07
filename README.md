@@ -163,22 +163,6 @@ CGPA: **9.38**
 
 </div>
 
-## `> github-trophies --theme matrix`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohanauti09&theme=matrix&no-frame=true&column=7" />
-
-</div>
-
-## `> activity-graph --area true`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanauti09&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=E8F5E1&area=true&hide_border=true" />
-
-</div>
-
 ## `> cat current-focus.yaml`
 
 ```yaml
