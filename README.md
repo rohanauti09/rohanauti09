@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Auti</h1>
 <h3 align="center">Computer Engineering Student | Java & Web Developer | AI/ML Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohanauti09&label=Profile%20Views&color=0e75b6&style=flat" alt="rohanauti09" />
-</p>
-
 ---
 
 ### 💫 About Me
@@ -86,14 +82,13 @@ I enjoy building practical applications using **Java**, **web technologies**, an
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohanauti09&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Rohan's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanauti09&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/rohanauti09">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohanauti09&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Rohan's GitHub stats"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rohanauti09&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanauti09&theme=github-compact&hide_border=true" alt="Activity Graph"/>
+  <a href="https://github.com/rohanauti09">
+    <img src="https://streak-stats.demolab.com/?user=rohanauti09&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
