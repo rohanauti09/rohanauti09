@@ -1,94 +1,211 @@
-<h1 align="center">Hi 👋, I'm Rohan Auti</h1>
-<h3 align="center">Computer Engineering Student | Java & Web Developer | AI/ML Enthusiast</h3>
+<div align="center">
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=Rohan%20Auti&fontSize=38&desc=Java%20Full%20Stack%20Developer&descColor=8AFF57&animation=fadeIn" />
 
-### 💫 About Me
+</div>
 
-🎓 Computer Engineering student passionate about software development and emerging technologies.
-I enjoy building practical applications using **Java**, **web technologies**, and **AI/ML**.
+<div align="center">
 
-- 🔹 Java & Web Development
-- 🔹 AI/ML & Data Science
-- 🔹 Database Management
-- 🔹 Open-source & Project Development
-- 🎯 Always learning, building, and looking for opportunities to create meaningful solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Java+Full+Stack+Developer;%24+skills+%E2%86%92+Java+%7C+Spring+Boot+%7C+React+%7C+AWS;%24+cat+current-focus.txt+%E2%86%92+ML+%2B+Power+Forecasting;%24+cat+open-to.txt+%E2%86%92+Software+Development+Roles" />
 
----
+</div>
 
-### 🌐 Connect with Me
+<div align="center">
 
-<p align="left">
-<a href="https://instagram.com/itz.rohan.09" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://linkedin.com/in/Rohan-auti09" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:rohanauti9@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
+![Degree](https://img.shields.io/badge/B.E.-Computer_Engineering-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C)
+![University](https://img.shields.io/badge/SPPU-S.B._Patil_College-0A0F08?style=flat-square&labelColor=0A0F08&color=8AFF57)
+![Location](https://img.shields.io/badge/Location-Pune,_India-0A0F08?style=flat-square&labelColor=0A0F08&color=E8F5E1)
+![CGPA](https://img.shields.io/badge/CGPA-9.38-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C)
 
----
+</div>
 
-### 💻 Tech Stack
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan--auti09-0A0F08?style=for-the-badge&logo=linkedin&logoColor=CAFF3C&labelColor=0A0F08&color=1A2B1A)](https://www.linkedin.com/in/Rohan-auti09)
+[![GitHub](https://img.shields.io/badge/GitHub-rohanauti09-0A0F08?style=for-the-badge&logo=github&logoColor=CAFF3C&labelColor=0A0F08&color=1A2B1A)](https://github.com/rohanauti09)
+[![Email](https://img.shields.io/badge/Email-rohanauti9%40gmail.com-0A0F08?style=for-the-badge&logo=gmail&logoColor=CAFF3C&labelColor=0A0F08&color=1A2B1A)](mailto:rohanauti9@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-itz.rohan.09-0A0F08?style=for-the-badge&logo=instagram&logoColor=CAFF3C&labelColor=0A0F08&color=1A2B1A)](https://instagram.com/itz.rohan.09)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohanauti09&color=CAFF3C&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/rohanauti09?label=Followers&style=flat-square&color=8AFF57&labelColor=0A0F08)
+![Stars](https://img.shields.io/github/stars/rohanauti09?label=Stars&style=flat-square&color=E8F5E1&labelColor=0A0F08)
+
+</div>
+
+## `> whoami`
+
+Java Full Stack Developer skilled in Java, Spring Boot, REST APIs, React.js, JavaScript, HTML, CSS, SQL, and MySQL, with a strong foundation in OOP, DSA, and DBMS. Currently pursuing my B.E. in Computer Engineering (2023–2027) while building scalable, real-world applications across web and ML.
+
+```bash
+$ cat .profile
+
+ROLE     =  Java Full Stack Developer
+DOMAIN   =  Web Development  |  AI/ML  |  Cloud  |  Database Management
+STACK    =  Java  |  Spring Boot  |  React.js  |  AWS  |  MySQL
+OPEN_TO  =  Software Development Roles
+```
+
+## `> ls /tech-stack`
+
+<div align="center">
 
 **Languages**
-<p align="left">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,php,mysql&theme=dark" />
 
-**Frameworks & Runtime**
-<p align="left">
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
-<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
-</p>
+<br><br>
 
-**Cloud & Databases**
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+**Frameworks & Libraries**
+<br>
+<img src="https://skillicons.dev/icons?i=react,spring,html,css&theme=dark" />
 
-**Data & ML**
-<p align="left">
-<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+<br><br>
 
-**Tools**
-<p align="left">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-</p>
+**Cloud & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" />
 
----
+</div>
 
-### 📊 GitHub Stats
+## `> cat expertise.md`
 
-<p align="center">
-  <a href="https://github.com/rohanauti09">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohanauti09&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Rohan's GitHub stats"/>
-  </a>
-</p>
+| Domain | Focus |
+| :-- | :-- |
+| **Backend Development** | Java, Spring Boot, REST APIs, layered architecture (Controller-Service-Repository) |
+| **Frontend Development** | React.js, JavaScript, HTML, CSS |
+| **Database Management** | MySQL, JPA, query optimization |
+| **Cloud Computing** | AWS (EC2, S3, IAM, RDS, CloudWatch) |
+| **AI/ML & Data Science** | Python, Pandas, NumPy, Scikit-learn, XGBoost |
+| **Core CS** | Data Structures, Algorithms, OOP, DBMS, OS, Computer Networks |
 
-<p align="center">
-  <a href="https://github.com/rohanauti09">
-    <img src="https://streak-stats.demolab.com/?user=rohanauti09&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
+## `> ls /projects --featured`
+
+<details open>
+<summary><b>&#9654; Banking System &mdash; Core Banking REST APIs</b></summary>
+
+RESTful APIs for core banking operations (deposits, withdrawals, fund transfers) built with a layered Controller-Service-Repository architecture.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Java &middot; Spring Boot &middot; REST APIs &middot; Spring Cache &middot; JPA &middot; MySQL |
+| **Scale** | Validated against 500+ simulated concurrent transactions |
+| **Impact** | `@Transactional` management enforced ACID compliance, preventing data inconsistency; Spring Cache (`@Cacheable`, `@CachePut`, `@CacheEvict`) eliminated redundant DB queries and cut API response latency |
+| **Repo** | [View on GitHub](https://github.com/rohanauti09) |
+
+Personally designed the API layer, transaction handling, and caching strategy end-to-end.
+
+</details>
+
+<details>
+<summary><b>&#9654; WattCast &mdash; Power Demand Forecasting with ML</b></summary>
+
+Machine learning-based power demand forecasting system using historical electricity consumption data to predict future power requirements.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; Pandas &middot; NumPy &middot; Scikit-learn &middot; XGBoost &middot; Matplotlib |
+| **Scale** | Status: In Progress (Aug 2026 – Present) |
+| **Impact** | Evaluated 4+ metrics (MAE, MSE, RMSE, R² Score) to support efficient energy management, power generation planning, and resource allocation |
+| **Repo** | [View on GitHub](https://github.com/rohanauti09) |
+
+Handled data preprocessing, EDA, feature engineering, temporal/seasonal pattern analysis, and XGBoost regression modeling.
+
+</details>
+
+## `> cat experience.log`
+
+**AWS Cloud Intern** — ProAzure Software Solutions Pvt. Ltd, Kharadi, Pune
+`January 2026`
+- Worked with AWS IAM, EC2, S3, RDS, and CloudWatch for cloud resource management, deployment, security, and monitoring
+- Configured EC2 instances, IAM roles/policies, S3 storage, and RDS databases, supporting 5+ cloud resources
+- Used CloudWatch metrics and alarms for performance monitoring and troubleshooting, improving issue detection by 20%
+- Assisted with AWS deployment, access management, backup, troubleshooting, and cloud infrastructure operations
+
+`Skills: AWS · IAM · EC2 · S3 · RDS · CloudWatch`
+
+## `> cat achievements.md`
+
+<div align="center">
+
+| Certification / Achievement | Issuer | Date |
+| :-- | :-- | :-- |
+| Database Management System (Top 5%) | NPTEL | Sep 2025 |
+| Applying AI Principles with Google Cloud | Google | June 2025 |
+| AWS Certified Cloud Practitioner Professional — ID #00078835 | Itronix Solution | March 2025 |
+| Basics of Business Communication | Infosys Springboard | June 2025 |
+
+</div>
+
+## `> cat education.md`
+
+![Education](https://img.shields.io/badge/B.E._Computer_Engineering-2023--2027-0A0F08?style=for-the-badge&labelColor=0A0F08&color=CAFF3C)
+
+**Savitribai Phule Pune University** — S. B. Patil College of Engineering, Pune, Maharashtra
+CGPA: **9.38**
+
+## `> github-stats --live`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohanauti09&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanauti09&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanauti09&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
+
+</div>
+
+## `> github-trophies --theme matrix`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohanauti09&theme=matrix&no-frame=true&column=7" />
+
+</div>
+
+## `> activity-graph --area true`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanauti09&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=E8F5E1&area=true&hide_border=true" />
+
+</div>
+
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - Advanced Spring Boot & microservices architecture
+  - Machine Learning model optimization (XGBoost, time-series forecasting)
+
+building:
+  - WattCast          # ML-based power demand forecasting system
+  - Banking System     # Spring Boot REST API with ACID-compliant transactions
+
+open_to:
+  - Software Development Engineer roles
+  - Java Full Stack Developer roles
+```
+
+## `> connect --with-me`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A0F08?style=for-the-badge&logo=linkedin&logoColor=CAFF3C&labelColor=0A0F08&color=1A2B1A)](https://www.linkedin.com/in/Rohan-auti09)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0A0F08?style=for-the-badge&logo=github&logoColor=CAFF3C&labelColor=0A0F08&color=1A2B1A)](https://github.com/rohanauti09)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-0A0F08?style=for-the-badge&logo=gmail&logoColor=CAFF3C&labelColor=0A0F08&color=1A2B1A)](mailto:rohanauti9@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-0A0F08?style=for-the-badge&logo=instagram&logoColor=CAFF3C&labelColor=0A0F08&color=1A2B1A)](https://instagram.com/itz.rohan.09)
+
+*"Build things that work, then make them work at scale."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&height=100&section=footer&animation=fadeIn" />
